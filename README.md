@@ -1,1 +1,2 @@
-# git_test
+ my first repo 
+ hello world this is my first git project
